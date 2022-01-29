@@ -1,5 +1,5 @@
 # ImageNet Stubs
-A tiny set of ImageNet-like images for testing pipelines
+A tiny set of ImageNet-like images for testing pipelines from Tom B Brown
 
 
 All images are licensed with Creative Commons and were found on flickr.com
